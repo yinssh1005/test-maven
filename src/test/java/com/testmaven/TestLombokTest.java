@@ -18,5 +18,6 @@ class TestLombokTest {
 
     @org.junit.jupiter.api.Test
     void setStr1() {
+        Assertions.assertFalse("2".equals("2"));
     }
 }
