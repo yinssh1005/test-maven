@@ -2,6 +2,6 @@ package com.testmaven;
 
 public class TestGBK {
     /*
-        ÕâÀïÊÇÓÃGBK±àÂëĞ´µÄÄÚÈİ£¬ÖĞÎç
+        è¿™é‡Œæ˜¯ç”¨GBKç¼–ç å†™çš„å†…å®¹ï¼Œä¸­åˆ
      */
 }
