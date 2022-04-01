@@ -1,8 +1,20 @@
 package com.testmaven;
 
+import org.junit.Assert;
+
+import java.util.function.Function;
+import java.util.concurrent.ArrayBlockingQueue;
+import java.io.BufferedInputStream;
+
 public class TestGBK {
     public static void main(String[] args) {
-        String abc = "这是一个字符串\\测试\\测试";
-        System.out.println(abc);
+
+        int x = 5;
     }
+
+    public int testMethodOne(int a, int b) {
+
+        return a + b;
+    }
+
 }
